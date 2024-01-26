@@ -8,4 +8,4 @@ The aim of this project is to analyse the sales data of a XYZ co. for the period
 - How the customer count has changed over time?
 - Who are the top 5 customers according to profit?
 - What are the sales according to month?
-We have created a interactive dashboard in order to solve this problem.
+## We have created a interactive dashboard in order to solve this problem.
